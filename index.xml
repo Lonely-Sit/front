@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>孤云捷径</title>
+    <link>https://front.alone-hk.cn/</link>
+    <description>Recent content on 孤云捷径</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language><atom:link href="https://front.alone-hk.cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>关于我们</title>
+      <link>https://front.alone-hk.cn/about/</link>
+      <pubDate>Tue, 28 Jul 2020 19:27:08 +0800</pubDate>
+      
+      <guid>https://front.alone-hk.cn/about/</guid>
+      <description>关于我们 - 孤云捷径 孤云捷径，为您的互联网之旅提供引路灯。 孤云捷径是一个由 Lonely Sit 创立的导航网站，我们的目标是为您提供快速、便捷的网址导航服务。在</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://front.alone-hk.cn/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://front.alone-hk.cn/404/</guid>
+      <description>&lt;!doctype html&gt;404 NOT FOUND</description>
+    </item>
+    
+  </channel>
+</rss>
